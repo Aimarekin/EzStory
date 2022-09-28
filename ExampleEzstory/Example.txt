@@ -1,0 +1,21 @@
+Hola, ¿qué tal?
+
+Bueno, ¿cómo te llamas?
+> nombre
+
+Encantado, {nombre}.
+
+:choose_num
+Dime un número.
+> numero:num
+
+Ese número más 2 sería...
+! numero + 2
+¡{num}!
+
+¿Quieres decirme otro número?
+- Sí
+  => choose_num
+- No
+
+Bueno pues nada que eso. Adiós.
