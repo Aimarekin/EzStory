@@ -1,0 +1,15 @@
+Triangulinator 3000
+
+:triangulo
+Lado del triángulo:
+> lado
+Base del triángulo:
+> base
+Resultado: {(lado * base) / 2}
+
+¿Hacer otro triangulo?
+- Sí
+    => triangulo
+- No
+
+¡Adiós!

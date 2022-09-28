@@ -15,7 +15,7 @@ Ese número más 2 sería...
 
 ¿Quieres decirme otro número?
 - Sí
-  => choose_num
+    => choose_num
 - No
 
 Bueno pues nada que eso. Adiós.
